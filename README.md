@@ -1,5 +1,4 @@
-**Replication package for the article**: Requirements across Internet of Things applications: A snowballing
-approach
+**Replication package for the article**: Systematic Consolidation of IoT Communication Requirements Across Domains
 
 **Written by**: Sebastian Leclerc, Alessio Bucaioni, Mohammad Ashjaei
 
